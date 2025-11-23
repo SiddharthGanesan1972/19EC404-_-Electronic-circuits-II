@@ -15,14 +15,10 @@
 # Tabulation
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+|   5.20V    |    1ms       |   952.2hz            |     1000hz             |
 
 # Graph
-
-
-
-# Sample images 
-
+![WhatsApp Image 2025-11-23 at 20 27 23](https://github.com/user-attachments/assets/a2ff9b8e-66b4-4b0a-b22b-556a3fbbd57b)
 
 
 # Result
