@@ -30,8 +30,7 @@ DIFFERNTIATOR
 
 
 INTEGRATOR
-![WhatsApp Image 2025-11-21 at 18 41 57_35365928](https://github.com/user-attachments/assets/fe918936-0287-43b8-a114-b91f8c6345c2)
-
+![WhatsApp Image 2025-11-23 at 20 27 24](https://github.com/user-attachments/assets/cf6ddd59-7740-4a66-a3ac-a17b0d9a64fd)
 
 
 # Result
