@@ -13,12 +13,12 @@
 
 
 # Tabulation
+![WhatsApp Image 2025-11-21 at 18 45 38_e440fe04](https://github.com/user-attachments/assets/c4798e17-42e1-4c1e-9316-c179fee0dc4f)
 
 
 # Graph
-
-
-# Sample images 
+![WhatsApp Image 2025-11-23 at 20 27 23](https://github.com/user-attachments/assets/bf595824-df3c-4075-a8af-6c2e45cbec6e)
 
 
 # Result
+ Thus different clamper circuits are studied and their output waveforms are plotted.
